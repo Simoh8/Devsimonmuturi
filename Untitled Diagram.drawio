@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" modified="2023-04-24T10:54:27.741Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="tdhJDQQeyvPCxhLhNIy5" version="21.2.1" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1563" dy="1778" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21553" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="196" y="-378" width="1400" height="1055.13" as="geometry" />
+        </mxCell>
+        <mxCell id="21532" value="" style="ellipse;fillColor=#12AAB5;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="z1O3cj24Ql7O2J-AdU1y-21553" vertex="1">
+          <mxGeometry x="182" y="98" width="758.88" height="709.5" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21546" value="" style="group" parent="z1O3cj24Ql7O2J-AdU1y-21553" vertex="1" connectable="0">
+          <mxGeometry x="350" y="182" width="1050" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="21533" value="" style="ellipse;fillColor=#e85642;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="i4v5j4wVxbiltlU2zRLH-21546" vertex="1">
+          <mxGeometry x="322" y="-70" width="728" height="706" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21541" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;Key features&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;ul style=&quot;font-size: 18px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Four levels of evaluation i.e&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;reaction&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;learning&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;behavior&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;results&lt;/li&gt;&lt;/ol&gt;&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li style=&quot;font-size: 16px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Focuses on learners&#39; reactions and behavior&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Hierarchical in nature&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Offers a clear framework for measuring the effectiveness of training programs&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px; text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;Widely recognized and used in the field of instructional design&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font style=&quot;background-color: initial;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Disadvantages&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;/ul&gt;&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;Does not provide clear guidance on how to collect and analyze data for evaluation&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;overemphasizes the learners&#39; reactions and behavior&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="i4v5j4wVxbiltlU2zRLH-21546" vertex="1">
+          <mxGeometry x="-33" y="42" width="314" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21542" value="&lt;font style=&quot;font-size: 19px;&quot; color=&quot;#ffffff&quot;&gt;Key features&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;ul style=&quot;font-size: 19px; line-height: 120%;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Five levels of evaluation i.e&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;ol style=&quot;font-size: 16px; line-height: 120%;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;input&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;process&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;output&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;outcome&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;impact&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul style=&quot;font-size: 16px; line-height: 120%;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Evaluates training programs from a broader perspective&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Non-hierarchical in nature&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Considers both qualitative and quantitative data for evaluation&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Provides clear guidance on how to collect and analyze data for evaluation&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Provides a comprehensive framework for evaluating the impact of training programs on the organization&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Disadvantages&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;ul style=&quot;font-size: 16px; line-height: 120%;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;May be more complex and time-consuming to implement compared to other models&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;Not be suitable for evaluating short-term training programs or programs with limited resources&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;li style=&quot;text-align: left; border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 transparent; --tw-ring-shadow:0 0 transparent; --tw-shadow:0 0 transparent; --tw-shadow-colored:0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px; padding-left: 0.375em; display: block; position: relative;&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/ul&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 130%;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="i4v5j4wVxbiltlU2zRLH-21546" vertex="1">
+          <mxGeometry x="602" y="98" width="291" height="422" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21543" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Systematic and comprehensive approach to evaluating training programs&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="i4v5j4wVxbiltlU2zRLH-21546" vertex="1">
+          <mxGeometry x="371" y="70" width="177" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21547" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;Helps identify areas for improvement in future training programs&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="i4v5j4wVxbiltlU2zRLH-21546" vertex="1">
+          <mxGeometry x="365" y="182" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21571" value="&lt;div style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ffffff&quot;&gt;Weakness&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The&amp;nbsp; Model may be too complex for some instructional designers to implement effectively.&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="i4v5j4wVxbiltlU2zRLH-21546" vertex="1">
+          <mxGeometry x="371" y="352" width="168" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="21534" value="Kirkpatrick&#39;s Model" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="z1O3cj24Ql7O2J-AdU1y-21553" vertex="1">
+          <mxGeometry x="392" width="258.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="21535" value=" Kaufman&#39;s Model" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="z1O3cj24Ql7O2J-AdU1y-21553" vertex="1">
+          <mxGeometry x="868" width="266" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21537" value="" style="group" vertex="1" connectable="0" parent="z1O3cj24Ql7O2J-AdU1y-21553">
+          <mxGeometry y="784" width="476" height="215.13000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21558" value="Effectiveness&amp;nbsp; for evaluating short-term training programs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" vertex="1">
+          <mxGeometry x="98" y="194.11" width="378" height="21.02" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21569" value="10" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" vertex="1">
+          <mxGeometry x="386.0562186251505" y="162.32401643990926" width="51.94378137484952" height="31.783333333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21556" value="Kaufman&#39;s Model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" vertex="1">
+          <mxGeometry x="12.466159294964669" y="59.330140857392735" width="103.26886877828056" height="21.022047244094484" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21559" value="Kirkpatrick&#39;s Model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" vertex="1">
+          <mxGeometry y="122.97595800524931" width="128.19583710407244" height="21.022047244094484" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21565" value="2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" vertex="1">
+          <mxGeometry x="158.2840555164041" y="162.32666666666665" width="58.1512315270936" height="31.783333333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21566" value="4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" vertex="1">
+          <mxGeometry x="216.4382512315271" y="162.32666666666665" width="58.1512315270936" height="31.783333333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21567" value="6" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" vertex="1">
+          <mxGeometry x="269.75487006520467" y="162.32670804988658" width="58.1512315270936" height="31.783333333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21568" value="8" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" vertex="1">
+          <mxGeometry x="327.90721674876846" y="162.32670918367347" width="58.1512315270936" height="31.783333333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21550" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E85642;container=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" vertex="1">
+          <mxGeometry x="128.34064261083745" y="59.32888888888891" width="119.29725147783252" height="32.93812777777778" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21551" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#12AAB5;container=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" vertex="1">
+          <mxGeometry x="128.34064261083745" y="118.65777777777777" width="237.05349532019704" height="29.664444444444445" as="geometry" />
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21553" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="427.4659728506789" y="156.96461942257207" as="sourcePoint" />
+            <mxPoint x="128.3423529411765" y="9.81028871391078" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="128.3423529411765" y="156.96461942257207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4v5j4wVxbiltlU2zRLH-21557" value="Models" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="z1O3cj24Ql7O2J-AdU1y-21537" vertex="1">
+          <mxGeometry x="78.48841628959278" width="53.41493212669683" height="21.022047244094484" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21538" value="" style="group" vertex="1" connectable="0" parent="z1O3cj24Ql7O2J-AdU1y-21553">
+          <mxGeometry x="742" y="840" width="476" height="215.13000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21539" value="Effectiveness&amp;nbsp;&amp;nbsp;for evaluating long-term programs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry x="98" y="194.11" width="378" height="21.02" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21540" value="10" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry x="386.0562186251505" y="162.32401643990926" width="51.94378137484952" height="31.783333333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21541" value="Kaufman&#39;s Model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry x="12.466159294964669" y="59.330140857392735" width="103.26886877828056" height="21.022047244094484" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21542" value="Kirkpatrick&#39;s Model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry y="122.97595800524931" width="128.19583710407244" height="21.022047244094484" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21543" value="2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry x="158.2840555164041" y="162.32666666666665" width="58.1512315270936" height="31.783333333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21544" value="4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry x="216.4382512315271" y="162.32666666666665" width="58.1512315270936" height="31.783333333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21545" value="6" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry x="269.75487006520467" y="162.32670804988658" width="58.1512315270936" height="31.783333333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21546" value="8" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry x="327.90721674876846" y="162.32670918367347" width="58.1512315270936" height="31.783333333333335" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21547" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E85642;container=0;" vertex="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry x="128.34" y="59.33" width="235.66" height="32.94" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21548" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#12AAB5;container=0;" vertex="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry x="128.34" y="118.66" width="109.66" height="29.66" as="geometry" />
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21549" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="427.4659728506789" y="156.96461942257207" as="sourcePoint" />
+            <mxPoint x="128.3423529411765" y="9.81028871391078" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="128.3423529411765" y="156.96461942257207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1O3cj24Ql7O2J-AdU1y-21550" value="Models" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="z1O3cj24Ql7O2J-AdU1y-21538">
+          <mxGeometry x="78.48841628959278" width="53.41493212669683" height="21.022047244094484" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
